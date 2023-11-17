@@ -13,7 +13,7 @@ To achieve continuous availability, a standby database will be created on the sa
 The database will be designed based on the Entity-Relationship (ER) model, incorporating necessary tables, indexes, views, and materialized views.
 
 ##The ERD model
-![ERD-Movie-Rental]([https://user-images.githubusercontent.com/114536072/206841689-990dec5e-f6c8-4fa4-9426-7d2791fecd0d.png](https://raw.githubusercontent.com/YehiaKhaledAbouzeiid/Movie-Rental-Database-System/main/ERD-Movie-Rental-4.png))
+![ERD-Movie-Rental-4.png](https://github.com/YehiaKhaledAbouzeiid/Movie-Rental-Database-System/blob/main/ERD-Movie-Rental-4.png)
 
 ### User Management
 Three groups of users with distinct privileges and roles will be established. Each group will have specific password policies, failed login attempts, concurrent session limits, and assigned quotas.
